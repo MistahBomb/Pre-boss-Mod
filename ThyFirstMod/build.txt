@@ -1,0 +1,3 @@
+displayName = Pre-boss Expanded
+author = MistahBombastic
+version = 0.1

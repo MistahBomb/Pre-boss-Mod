@@ -1,0 +1,7 @@
+The goal of this mod is to provide more options before fighting the first boss (also for me to learn to mod)
+-------------------------------------------------------------------
+It currently only adds 3 weapons:
+-Acorn bow
+-Wooden Club
+-Wooden Flail
+------------------------------------------
